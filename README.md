@@ -7,6 +7,7 @@ In this project, I gather information from [this site](https://research.com/scie
 3. Max Publications Per University in Asia.
 4. No of Scientists in Asia and Middle East Countries.
 
+You can see the findings from [here](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/Demoprojectofbestcsscientistsdatasetmine/Dashboard1).
 
 ## Findings
 
@@ -34,5 +35,7 @@ In this project, I gather information from [this site](https://research.com/scie
 
 5. To deactivate the virtual environment type this command-
    `deactivate`
+
+6. Import `best_cs_scientists_details.csv` file in the Tableau and make changes according to [this](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/Demoprojectofbestcsscientistsdatasetmine/Dashboard1) to get the findings.
 
 N.B: This project is slightly different from [this project](https://github.com/msi1427/Demographics-of-Best-CS-Scientists-Worldwide). Main idea is taken form that project.
