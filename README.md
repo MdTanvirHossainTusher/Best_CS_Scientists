@@ -37,5 +37,3 @@ You can see the findings from [here](https://public.tableau.com/app/profile/md.t
    `deactivate`
 
 6. Import `best_cs_scientists_details.csv` file in the Tableau and make changes according to [this](https://public.tableau.com/app/profile/md.tanvir.hossain/viz/Demoprojectofbestcsscientistsdatasetmine/Dashboard1) to get the findings.
-
-N.B: This project is slightly different from [this project](https://github.com/msi1427/Demographics-of-Best-CS-Scientists-Worldwide). Main idea is taken form that project.
